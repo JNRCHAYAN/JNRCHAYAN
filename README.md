@@ -33,3 +33,7 @@
 | Marketing | SEO, Semrush, Ubersuggest, Adword | <img src="https://t3.ftcdn.net/jpg/02/12/85/70/360_F_212857017_07g6Op4rlzcEjGniDucqWQ6IFYD7nTsd.jpg" alt="SEO" width="30" height="30"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ45MScvCUjhzC6L3v2GpoMqWh69Bu5GIENKA&s" alt="Semrush" width="30" height="30"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6_7kc6v0JuKkVhsIEyVT-UV8CcuxlvcMPjE7FA2-Rn54c-V9vWvM0KnN1q2aS07QSa-g&usqp=CAU" alt="Ubersuggest" width="30" height="30"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Ads_logo.svg/1641px-Google_Ads_logo.svg.png" alt="Adword" width="30" height="30"/>
 | Additional Skill | Linux, Git, Github, Arduino | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" width="30" height="30"/>  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="30" height="30"/>                                                                                                                          |
 
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
