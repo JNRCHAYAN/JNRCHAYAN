@@ -34,6 +34,3 @@
 | Additional Skill | Linux, Git, Github, Arduino | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" width="30" height="30"/>  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="30" height="30"/>                                                                                                                          |
 
 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
